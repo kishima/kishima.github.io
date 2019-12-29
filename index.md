@@ -7,7 +7,7 @@ permalink: /
 
 # Kishima Craft Works project page
 
-https://kishima.github.io/how_to_use
+[How to Use](https://kishima.github.io/how_to_use)
 
 
 
