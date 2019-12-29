@@ -1,6 +1,8 @@
-yout: page
+---
+layout: page
 title: "Kishima Craft Works project page"
 permalink: /
+---
 
 
 # Kishima Craft Works project page
