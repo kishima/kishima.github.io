@@ -35,6 +35,8 @@ Rubyのコードを編集して、コンパイルから実行を行っていま�
 
 .
 
+---
+
 ## 使い方
 
 [こちらのページ](https://kishima.github.io/jp/family_mruby/manual/)を参照ください。
