@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-layout: page
+layout: default
 title: "Kishima Craft Works project page"
 permalink: /
 ---
