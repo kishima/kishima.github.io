@@ -2,6 +2,7 @@
 layout: page
 title: "Kishima Craft Works project page"
 permalink: /
+theme: jekyll-theme-minimal
 ---
 
 # Kishima Craft Works project page
