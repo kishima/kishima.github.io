@@ -10,8 +10,8 @@ permalink: /
 
 ## Family mruby
 
-<img src="images/demo2.jpg" alt="Family mruby demo">
+<img src="/images/demo2.jpg" alt="Family mruby demo">
 
 ## UBS host board for Family mruby(coming soon)
 
-<img src="images/usb_host_v01.png" alt="USB host board v0.1">
+<img src="/images/usb_host_v01.png" alt="USB host board v0.1">
