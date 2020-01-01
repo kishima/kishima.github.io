@@ -77,6 +77,10 @@ Family mruby用の基板（Narya基板と呼びます）の情報です。
 
 3Dプリンタ用基板ケースのデータも公開しています（予定）。
 
+### ピン配置
+
+<img src="/images/pinconfig.png" alt="Pin assignment">
+
 ### v2.0 (最新)
 
 PCBA量産版。C97で頒布。

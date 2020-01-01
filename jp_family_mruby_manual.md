@@ -84,16 +84,55 @@ USBケーブルを接続して、電源スイッチをONにして起動します
 
 ファームウェアを上書きすると、FabGLを動かすためのESP32開発基板としても用いることができます。
 
-Narya基板を、素のFabGLと組み合わせて用いる場合、標準のピン配置とことなる接続をしているため、注意が必要です。
+Narya基板を、素のFabGLと組み合わせて用いる場合、VGAの　VSyncが標準のピン配置とことなる接続をしているため、注意が必要です。
 
 * VGAの端子
 
+VSyncのみ変更されています。ご注意ください。
+
+|Type|Default|Family mruby|
+|:---|:------|:-----------|
+|Red1  |GPIO22 |GPIO22 |
+|Red0  |GPIO21 |GPIO21 |
+|Green1|GPIO19 |GPIO19 |
+|Green0|GPIO18 |GPIO18 |
+|Blue1 |GPIO5  |GPIO5  |
+|Blue0 |GPIO4  |GPIO4  |
+|HSync |GPIO23 |GPIO23 |
+|VSync |GPIO15 |GPIO27 |
+
+設定例
+
+```
+VGAController.begin(GPIO_NUM_22, GPIO_NUM_21, GPIO_NUM_19, GPIO_NUM_18, GPIO_NUM_5, GPIO_NUM_4, GPIO_NUM_23, GPIO_NUM_27);
+```
+
+* PS/2 キーボード
+
+変更無しです。マウスは非対応です。
+
+|Type|Default|
+|:---|:------|
+|DATA  |GPIO32 |
+|CLK   |GPIO33 |
+
 * Audio
+
+変更無しです。
+
+|Type|Default|
+|:---|:------|
+|Audio  |GPIO25 |
 
 ---
 
 ### 問い合わせ
 
-個人の趣味の範囲で運営しているプロジェクトのため、十分な対応を保証することができませんが、何か問題がありましたら、以下にご連絡ください。
+Family mrubyのファームウェアに関しては、githubのissueをご利用ください。
 
-kishima7@gmail.com
+その他については以下のメールアドレスを利用ください。
+
+kishima@silentworlds.info
+
+個人の趣味の範囲で運営しているプロジェクトのため、十分な対応を保証することができない点、ご容赦ください。
+
