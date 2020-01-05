@@ -21,5 +21,5 @@ UBS host board for Family mrubyは、Family mruby用基板(Narya)に、USBゲー
 
 現在開発中です。
 
-<img src="/images/usb_host_v01.png" alt="USB host board v0.1">
+<img src="/images/USB-HOST.jpg" alt="USB host board v0.5">
 

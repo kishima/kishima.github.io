@@ -84,7 +84,7 @@ USBケーブルを接続して、電源スイッチをONにして起動します
 
 ファームウェアを上書きすると、FabGLを動かすためのESP32開発基板としても用いることができます。
 
-Narya基板を、素のFabGLと組み合わせて用いる場合、VGAの　VSyncが標準のピン配置とことなる接続をしているため、注意が必要です。
+Narya基板を、素のFabGLと組み合わせて用いる場合、VGAのVSyncが標準のピン配置とことなる接続をしているため、注意が必要です。
 
 * VGAの端子
 
@@ -106,6 +106,7 @@ VSyncのみ変更されています。ご注意ください。
 ```
 VGAController.begin(GPIO_NUM_22, GPIO_NUM_21, GPIO_NUM_19, GPIO_NUM_18, GPIO_NUM_5, GPIO_NUM_4, GPIO_NUM_23, GPIO_NUM_27);
 ```
+
 
 * PS/2 キーボード
 

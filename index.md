@@ -13,4 +13,4 @@ permalink: /
 
 ## UBS host board for Family mruby(coming soon)
 
-<img src="/images/usb_host_v01.png" alt="USB host board v0.1">
+<img src="/images/USB-HOST.jpg" alt="USB host board v0.5">
