@@ -46,6 +46,12 @@ Rubyのコードを編集して、コンパイルから実行を行っていま�
 
 ---
 
+## アーキテクチャ
+
+<img src="/images/family-mruby-arch.jpg" alt="Family mruby architecture">
+
+---
+
 ## Narya基板について
 
 Family mruby用の基板（Narya基板と呼びます）の情報です。
