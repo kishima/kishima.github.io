@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Family mruby"
+title: "Family mruby API reference"
 permalink: /jp/family_mruby/commands/
 ---
+
 # コマンドリファレンス
 
 ## Narya::Display モジュール

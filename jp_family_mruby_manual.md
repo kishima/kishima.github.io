@@ -113,7 +113,7 @@ F4（RUN）でバイトコードへのコンパイルと実行を行います。
 
 ### API
 
-[こちら](https://github.com/kishima/family_mruby/commands)
+[こちら](https://kishima.github.io/jp/family_mruby/commands/)
 を参照ください。
 
 ---
