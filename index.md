@@ -3,7 +3,7 @@ layout: default
 title: "Kishima Craft Works project page"
 permalink: /
 ---
-[日本語ページ](https://kishima.github.io/jp/)
+[Japanese](https://kishima.github.io/jp/)
 
 # Kishima Craft Works projects
 
