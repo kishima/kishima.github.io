@@ -35,7 +35,9 @@ Family mruby は、VGAディスプレイとPS/2キーボードを接続して、
 
 Rubyのコードを編集して、コンパイルから実行を行っています。
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/za9LFTUpPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 .
 
@@ -68,7 +70,7 @@ Family mruby用の基板（Narya基板と呼びます）の情報です。
 |:---:|:---|:---|
 |1 | マイコン | ESP32（ESP32-WROVER-B） |
 |2 | RAM | メイン SRAM(520KB) SPI-SRAM(8MB) |
-|3 | 電源 | マイクロUSBより給電 |
+|3 | 電源 | マイクロUSBより給電(1.5A以上の電源推奨) |
 |4 | 外部ストレージ | マイクロSD(ファームウェア開発中) |
 |5 | 映像出力 | VGA（対応解像度(TBD)） |
 |6 | キーボード入力 | PS/2キーボード |
@@ -83,7 +85,7 @@ Family mruby用の基板（Narya基板と呼びます）の情報です。
 
 [https://github.com/kishima/narya_board](https://github.com/kishima/narya_board)
 
-3Dプリンタ用基板ケースのデータも公開しています（予定）。
+3Dプリンタ用基板ケースのデータも公開しています。
 
 ### ピン配置
 

@@ -36,7 +36,9 @@ Family mruby has following properties.
 
 Following video shows to edit Ruby code and execute it.
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/za9LFTUpPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 .
 
