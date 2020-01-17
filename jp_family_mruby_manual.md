@@ -124,9 +124,16 @@ F4（RUN）でバイトコードへのコンパイルと実行を行います。
 
 [https://github.com/kishima/family_mruby](https://github.com/kishima/family_mruby)
 
+最新版は、[v0.5 beta](https://github.com/kishima/family_mruby/releases/tag/0.5)です。
+
 ビルドのためには、ArduinoIDEではなく、コマンドラインで動かすESP-IDF環境が必要となります。
 
-詳しい手順は追って更新予定です。
+v0.5 betaは、[ESP-IDF v3.2.2](https://docs.espressif.com/projects/esp-idf/en/v3.2.2/get-started/index.html)をインストール済みの環境でReadmeの手順に従ってビルドしてください。
+
+ESP-IDFの環境がそろっていれば、git cloneしてmake menuconfig、make flashするだけなので、ビルドは比較的容易かと思います。
+
+書き込みの際は、基板をPCとUSBケーブルで接続します。
+電源スイッチにTPS2065を採用して突入電流を抑えていますが、動作不安定にならないように、開発時は供給電力に余裕のあるUSBポートを使用してください。
 
 ---
 

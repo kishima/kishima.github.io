@@ -57,6 +57,14 @@ Following video shows to edit Ruby code and execute it.
 
 ---
 
+## Firmware
+
+Latest release is v0.5 beta.
+
+https://github.com/kishima/family_mruby
+
+---
+
 ## Narya Board
 
 Family mruby is running on the Narya board.
