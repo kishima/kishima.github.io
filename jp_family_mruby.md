@@ -4,9 +4,9 @@ title: "Family mruby"
 permalink: /jp/family_mruby/
 ---
 
-# Family mruby
-
 [English](https://kishima.github.io/family_mruby/)
+
+# Family mruby
 
 ---
 
