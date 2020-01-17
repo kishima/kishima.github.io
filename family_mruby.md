@@ -10,7 +10,7 @@ permalink: /family_mruby/
 
 ---
 
-## What is Family
+## What is Family mruby
 
 In 80s, BASIC was one of the famous languages for children to learn programing at first.
 A computer for consumers has limited resource to run any programing language, however there are some other good machines like MSX, Family basic on Family Computer in Japan. I think many senior programmers learnt the fun of programming.
