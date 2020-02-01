@@ -10,6 +10,8 @@ permalink: /jp/family_mruby/
 
 ---
 
+<img src="/images/topimage.png" alt="Family mruby logo">
+
 ## Family mrubyとは
 
 今は昔、子供が最初に触れるプログラミング言語といえば、BASICという時代がありました。
