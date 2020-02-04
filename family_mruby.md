@@ -10,6 +10,8 @@ permalink: /family_mruby/
 
 ---
 
+<img src="/images/topimage.png" alt="Family mruby logo">
+
 ## What is Family mruby
 
 In 80s, BASIC was one of the famous languages for children to learn programing at first.
