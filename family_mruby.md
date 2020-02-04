@@ -103,14 +103,16 @@ Schematics and gerber data is shared in the following github repository.
 
 ### v2.0 (Latest)
 
-Build by PCBA. Released on C97.
+Build by Elecrow PCBA. Released on C97.
 
 Changes
 
 * Fix error of schimatics related to LEDs.
 * Changed the LED position to show power input.
 
-<img src="/images/Narya2.0.jpg" alt="Family mruby demo">
+<img src="/images/Narya2.0.jpg" alt="Narya board v2.0">
+
+<img src="/images/narya_board_with_case.jpg" alt="Narya board v2.0 with a case">
 
 ### v1.4
 
