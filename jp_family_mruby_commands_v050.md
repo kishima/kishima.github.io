@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Family mruby API reference"
-permalink: /jp/family_mruby/commands/
+permalink: /jp/family_mruby/commands_v050/
 ---
 
-# コマンドリファレンス(Family mruby ver 0.6.0)
+# コマンドリファレンス(Family mruby ver 0.5.0)
 
 ## Narya::Display モジュール
 
