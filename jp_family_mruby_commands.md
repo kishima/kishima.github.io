@@ -20,7 +20,7 @@ Narya::Display::draw_pixel(10,20,"300")
 Red,Green,Blueの順に値をセットします。
 Family mrubyでは64色(=4の3乗)描画に対応しているので、RGBそれぞれの取りうる値の範囲は0〜3です。
 例えば、"300"であれば、R=3、G=0、B=0なので、赤色を表します。
-フォーマットに合わない文字列を設定した場合、
+フォーマットに合わない文字列を設定した場合、ArgumentErrorが発生します。
 
 
 ### 定義済み色名
@@ -174,7 +174,10 @@ Family mrubyでは64色(=4の3乗)描画に対応しているので、RGBそれ�
 
 #### initialize
 
- * 引数:
+ * 引数: bitmap
+   * bitmap: Narya::Bitmapクラスののインスタンス
+
+所定のbitmapを表示画像としてもつSpriteを生成します。
 
 #### move_to
 
