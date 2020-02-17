@@ -6,9 +6,9 @@ permalink: /jp/family_mruby/manual/
 
 [親ページへ戻る](https://kishima.github.io/jp/family_mruby/)
 
-# Family mruby の始め方(v0.6.0)
+# Family mruby の使い方(v0.6.0)
 
-まだ実行環境の開発中のためファームウェアが色々と未熟ですが、ご容赦ください。
+まだ開発中のためファームウェアが色々と未熟ですが、ご容赦ください。
 C97で購入された方向けの説明は[こちら](https://kishima.github.io/jp/family_mruby/manual_c97/)です。
 
 ---
