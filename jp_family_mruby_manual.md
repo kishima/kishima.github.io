@@ -4,10 +4,12 @@ title: "Family mruby"
 permalink: /jp/family_mruby/manual/
 ---
 
+[親ページへ戻る](https://kishima.github.io/jp/family_mruby/)
+
 # Family mruby の始め方(v0.6.0)
 
 まだ実行環境の開発中のためファームウェアが色々と未熟ですが、ご容赦ください。
-C97で購入された方向けの説明は[こちら](https://kishima.github.io/jp/family_mruby/manual_v97/)です。
+C97で購入された方向けの説明は[こちら](https://kishima.github.io/jp/family_mruby/manual_c97/)です。
 
 ---
 
@@ -111,7 +113,7 @@ USBケーブルを接続して、電源スイッチをONにして起動します
 
 ### 編集
 
-現在のバージョンでサポートしている機能
+現在のバージョンでは、以下の機能をサポートしています。
 
 * カーソル移動
 * 挿入、改行
@@ -140,7 +142,7 @@ F4（RUN）でバイトコードへのコンパイルと実行を行います。
 
 [https://github.com/kishima/family_mruby](https://github.com/kishima/family_mruby)
 
-最新版は、[v0.6.0 beta](https://github.com/kishima/family_mruby/releases/tag/0.6.0)です。
+最新版は、[v0.6.0](https://github.com/kishima/family_mruby/releases/tag/v0.6.0)です。
 
 esptool.pyを使って、バイナリファイルを書き込む場合、ソースコードのビルドは不要です。
 MacやLinuxで書き込む場合のesptool.pyのオプションは、release_bin/flash_bins.sh を参照ください。
@@ -148,12 +150,12 @@ Windowsでも、フラッシュツールを使えば書き込めるはずです�
 
 もしビルドして改造等したい場合には、ArduinoIDEではなく、コマンドラインで動かすESP-IDF環境が必要となります。
 
-v0.6.0 betaは、[ESP-IDF v3.2.2](https://docs.espressif.com/projects/esp-idf/en/v3.2.2/get-started/index.html)をインストール済みの環境でReadmeの手順に従ってビルドしてください。
+v0.6.0は、[ESP-IDF v3.2.2](https://docs.espressif.com/projects/esp-idf/en/v3.2.2/get-started/index.html)をインストール済みの環境で、Readmeの手順に従ってビルドしてください。
 
 ESP-IDFの環境がそろっていれば、git cloneしてmake menuconfig、make flashするだけなので、ビルドは比較的容易かと思います。
 
 書き込みの際は、基板をPCとUSBケーブルで接続します。
-電源スイッチにTPS2065を採用して突入電流を抑えていますが、動作不安定にならないように、開発時は供給電力に余裕のあるUSBポートを使用してください。
+電源スイッチにTPS2065を採用して突入電流を抑えていますが、動作不安定にならないように、開発時は供給可能電力に余裕のあるUSBポートを使用してください。
 
 ---
 
