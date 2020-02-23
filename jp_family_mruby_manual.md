@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Family mruby"
+title: "Family mruby manual"
 permalink: /jp/family_mruby/manual/
 ---
 
@@ -154,8 +154,11 @@ v0.6.0は、[ESP-IDF v3.2.2](https://docs.espressif.com/projects/esp-idf/en/v3.2
 
 ESP-IDFの環境がそろっていれば、git cloneしてmake menuconfig、make flashするだけなので、ビルドは比較的容易かと思います。
 
-書き込みの際は、基板をPCとUSBケーブルで接続します。
-電源スイッチにTPS2065を採用して突入電流を抑えていますが、動作不安定にならないように、開発時は供給可能電力に余裕のあるUSBポートを使用してください。
+### 5.1 書き込み手順
+
+[こちら](https://kishima.github.io/jp/family_mruby/how_to_flash/)
+を参照ください。
+
 
 ---
 
