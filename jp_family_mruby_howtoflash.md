@@ -8,6 +8,8 @@ permalink: /jp/family_mruby/how_to_flash/
 
 ## Macの場合
 
+esptool.pyを利用して、USBシリアル通信を介して、バイナリファイルを書き込みます。
+
 ### USBシリアル通信ドライバの確認
 
 基板をPCに接続して、以下のコマンドを実行した結果を確かめてください。
@@ -57,6 +59,10 @@ export PATH=$HOME/esp/xtensa-esp32-elf/bin:$PATH
 export IDF_PATH=~/esp/esp-idf
 ```
 
+設定が終わったら一度ターミナルを再起動させてください。
+
+（バイナリのソフトを書き込むだけであれば、ツールチェインのインストールは省略可能です）
+
 * githubからESP-IDFをダウンロードします
 
 ```
@@ -91,7 +97,7 @@ unzip family_mruby_bin.zip
 ./flash_bins.sh /dev/cu.usbserial-****
 ```
 
-***はデバイスによってことなります。
+***はデバイスによって異なります。
 
 
 ## Windowsの場合
