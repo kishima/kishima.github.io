@@ -6,7 +6,7 @@ permalink: /jp/family_mruby/how_to_flash/
 
 # Family mruby ファームウェア更新方法
 
-## Macの場合
+## 1.Macの場合
 
 esptool.pyを利用して、USBシリアル通信を介して、バイナリファイルを書き込みます。
 
@@ -100,12 +100,12 @@ unzip family_mruby_bin.zip
 （***はデバイスによって異なります）
 
 
-## Windowsの場合
+## 2.Windowsの場合
 
 準備中
 
 
-## 共通の注意点
+## 3.共通の注意点
 
 ### 供給電力
 
