@@ -52,17 +52,14 @@ cd ~/esp
 tar -xzf ~/Downloads/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz
 ```
 
-* `~/.profile`に以下の2行を追加する
+* `~/.profile`に以下の2行を追加する（ビルドしない場合は１行目は不要です）
 
 ```
 export PATH=$HOME/esp/xtensa-esp32-elf/bin:$PATH
 export IDF_PATH=~/esp/esp-idf
 ```
-（ビルドしない場合は１行目は不要です）
 
 設定が終わったら一度ターミナルを再起動させてください。
-
-（バイナリのソフトを書き込むだけであれば、ツールチェインのインストールは省略可能です）
 
 * githubからESP-IDFをダウンロードします
 
