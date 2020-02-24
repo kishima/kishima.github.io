@@ -43,8 +43,8 @@ https://docs.espressif.com/projects/esp-idf/en/v3.2.2/get-started/index.html
 簡単に、日本語での説明を以下にまとめています。
 
 * `sudo easy_install pip` を実行
-* https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz をダウンロードする
-* ダウンロードしたファイルを展開する
+* https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz をダウンロードする（ビルドしない場合は不要）
+* ダウンロードしたファイルを展開する（ビルドしない場合は不要）
 
 ```
 mkdir -p ~/esp
@@ -58,6 +58,7 @@ tar -xzf ~/Downloads/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz
 export PATH=$HOME/esp/xtensa-esp32-elf/bin:$PATH
 export IDF_PATH=~/esp/esp-idf
 ```
+（ビルドしない場合は１行目は不要です）
 
 設定が終わったら一度ターミナルを再起動させてください。
 
@@ -97,7 +98,9 @@ unzip family_mruby_bin.zip
 ./flash_bins.sh /dev/cu.usbserial-****
 ```
 
-***はデバイスによって異なります。
+エラーなく終了すれば、書き込み完了です。
+
+（***はデバイスによって異なります）
 
 
 ## Windowsの場合
