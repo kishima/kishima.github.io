@@ -14,7 +14,7 @@ permalink: /jp/narya_2_0/
 
 ## 2. 背景
 
-もともと[Family mrubyプロジェクト](https://kishima.github.io/family_mruby/) 向けに設計していた基板です。
+もともと[Family mrubyプロジェクト](https://kishima.github.io/family_mruby/) 向けに設計していた基板です。Naryaと呼んでいます。
 USBキーボード対応のために基板をアップデートしようと考えているため、PS/2キーボード対応の現行基板の在庫を、Family mruby用としてではなく汎用の基板として販売してみることにしました。
 
 ## 3. 基板の説明
@@ -83,8 +83,29 @@ IO35はプルアップされた状態です。
 
 PCBA量産版。過去にC97、TMMF2020で頒布しました。
 
-<img src="/images/Narya2.0.jpg" alt="Family mruby demo">
+<img src="/images/Narya2.0.jpg" alt="Narya基板">
 
+<img src="/images/narya_2.0.jpg" alt="Narya基板（スルーホール部品はんだ付け前）">
+
+
+### 組み立ての注意点
+
+はんだ付けの順番は特に指定はないですが、背が低い部品からはんだ付けするのが良いと思います。
+
+金属部分が厚い部分はしっかりと熱して接触不良を起こさないようにはんだ付けしてください。
+
+SDカードをはんだ付けするのが一番面倒かと思うので、まずピンの位置をあわせてからはんだ付けするようにしてください。
+支え用のピンは2.54の穴に合わせてください。
+
+<img src="/images/pins.jpg" alt="SDカード基板用のピンは写真のように折って使ってください">
+
+<img src="/images/soldered.jpg" alt="Narya基板（スルーホール部品はんだ付け後）">
+
+### ケース付きの場合
+
+ケースが付いている場合に、ケースの蓋を閉じるには接着剤を用いて下さい。
+
+<img src="/images/case.jpg" alt="ケースの蓋を閉じた状態">
 
 ### 参考書籍
 
