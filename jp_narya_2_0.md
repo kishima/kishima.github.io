@@ -6,8 +6,6 @@ permalink: /jp/narya_2_0/
 
 # BOOTHでESP32-VGA基板を購入された方へ
 
----
-
 ## 1. 特徴
 
 * ESP32-WROVER-Bを搭載
