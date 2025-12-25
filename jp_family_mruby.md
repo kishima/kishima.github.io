@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Family mruby"
+title: "Family mruby(legacy)"
 permalink: /jp/family_mruby/
 ---
 
 [English](https://kishima.github.io/family_mruby/)
 
-# Family mruby
+# Family mruby(legacy)
 
 ---
 

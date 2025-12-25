@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Family mruby manual"
+title: "Family mruby(legacy) manual"
 permalink: /jp/family_mruby/manual/
 ---
 

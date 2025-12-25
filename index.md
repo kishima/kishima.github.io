@@ -7,10 +7,8 @@ permalink: /
 
 # Kishima Craft Works projects
 
-## [Family mruby](https://kishima.github.io/family_mruby)
+## [Family mruby](https://family-mruby.github.io/family-mruby-docs/)
+
+## [Family mruby(legacy)](https://kishima.github.io/family_mruby)
 
 <img src="/images/demo2.jpg" alt="Family mruby demo">
-
-## UBS host board for Family mruby(coming soon)
-
-<img src="/images/USB-HOST.jpg" alt="USB host board v0.5">
