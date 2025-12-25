@@ -8,11 +8,12 @@ permalink: /family_mruby/
 
 # Family mruby(legacy)
 
+[new Family mruby project](https://family-mruby.github.io/family-mruby-docs/)
+
 ---
 
 <img src="/images/topimage.png" alt="Family mruby logo">
 
-[new Family mruby project](https://family-mruby.github.io/family-mruby-docs/)
 
 ## What is Family mruby
 
