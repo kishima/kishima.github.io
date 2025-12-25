@@ -6,11 +6,13 @@ permalink: /family_mruby/
 
 [Japanese](https://kishima.github.io/jp/family_mruby/)
 
-# Family mruby
+# Family mruby(legacy)
 
 ---
 
 <img src="/images/topimage.png" alt="Family mruby logo">
+
+[new Family mruby project](https://family-mruby.github.io/family-mruby-docs/)
 
 ## What is Family mruby
 
