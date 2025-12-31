@@ -7,7 +7,7 @@ permalink: /
 
 # Kishima Craft Works projects
 
-## [Family mruby](https://family-mruby.github.io/family-mruby-docs/)
+## [Family mruby](https://family-mruby.github.io/)
 
 This is a rebooted Family mruby project.
 
