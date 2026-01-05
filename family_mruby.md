@@ -8,7 +8,7 @@ permalink: /family_mruby/
 
 # Family mruby(legacy)
 
-[new Family mruby project](https://family-mruby.github.io/family-mruby-docs/)
+[new Family mruby project](https://family-mruby.github.io/)
 
 ---
 
