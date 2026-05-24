@@ -13,7 +13,7 @@ permalink: /jp/
 
 詳細は以下を参照ください。
 
-https://family-mruby.github.io/ja/
+[https://family-mruby.github.io/ja/](https://family-mruby.github.io/ja/)
 
 ---
 
