@@ -7,11 +7,15 @@ permalink: /jp/
 # Kishima Craft Works プロジェクトサイト
 
 
-## [Family mruby](https://family-mruby.github.io/jp/)
+## [Family mruby](https://family-mruby.github.io/ja/)
 
 リブートしたFamily mrubyプロジェクトです。
 
-詳細はリンク先を参照ください。
+詳細は以下を参照ください。
+
+https://family-mruby.github.io/ja/
+
+---
 
 ## [Family mruby(legacy)](https://kishima.github.io/jp/family_mruby)
 
