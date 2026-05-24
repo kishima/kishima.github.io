@@ -6,9 +6,11 @@ permalink: /jp/family_mruby/
 
 [English](https://kishima.github.io/family_mruby/)
 
-# Family mruby(legacy)
+# Family mruby(旧バージョン)
 
-[new Family mruby project](https://family-mruby.github.io/)
+[最新の Family mruby project はこちら](https://family-mruby.github.io/ja)
+
+以下は旧バージョンの情報です。
 
 ---
 

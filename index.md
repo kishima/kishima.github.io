@@ -13,6 +13,8 @@ This is a rebooted Family mruby project.
 
 For details, please refer to the link.
 
+[https://family-mruby.github.io/](https://family-mruby.github.io/)
+
 ## [Family mruby(legacy)](https://kishima.github.io/family_mruby)
 
 <img src="/images/demo2.jpg" alt="Family mruby demo">

@@ -17,7 +17,9 @@ permalink: /jp/
 
 ---
 
-## [Family mruby(legacy)](https://kishima.github.io/jp/family_mruby)
+## [Family mruby(旧バージョン)](https://kishima.github.io/jp/family_mruby)
+
+旧バージョンのFamily mrubyプロジェクトです。
 
 Family mruby はオリジナルのマイコンボードに、VGAディスプレイとPS/2キーボードを接続して、Rubyのコードを書いて実行できる環境です。
 パソコンを準備してコードを転送したりするような手間も不要で簡単に楽しめます。
